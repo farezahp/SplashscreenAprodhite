@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Splashscreen Aprodhite</string>
+    <string name="firstSlideTitle">Selamat Datang Aprodhiters . . .</string>
+    <string name="firstSlideCaption">Halo, selamat datang para pelanggan setia Aprodhite App</string>
+    <string name="secondSlideTitle">Temukan Produk Impianmu !</string>
+    <string name="secondSlideCaption">Dapatkan kemudahan dan kenyamanan belanja untuk produk impian anda</string>
+    <string name="thirdSlideTitle">Pengalaman Belanja Terbaik</string>
+    <string name="thirdSlideCaption">Hanya disini kalian akan mendapatkan pengalaman belanja yang terbaik</string>
 </resources>
